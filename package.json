@@ -6,7 +6,7 @@
     "pullfiles": "node pullFiles.js"
   },
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "config.json": "0.0.4",
     "dev-dependencies": "^1.0.0",
     "googleapis": "^41.0.1",
