@@ -40,7 +40,7 @@ Author: Tyler
 
 -   Be supportive of family during trying times. This will be demonstrated by physical and emotional proximity and support.
 
--   Have a better understanding of what motivates me. This will be demonstrated by a 14 day period of feeling productive with out a fiscal reward.
+-   Have a better understanding of what motivates me. This will be demonstrated by a 14 day period of feeling productive without a fiscal reward.
 
 -   Beat the video game Portal 2,
 
@@ -50,4 +50,4 @@ Author: Tyler
 
 -   Define who I want to be, this will be shown in something like \[Zen of Python\]
 
--   Be comfortable saying \"I am a developer\" (be able to create a CRUD app from scratch and have an example)
+-   Be comfortable saying \"I am a developer\" (Finish SICP book)
