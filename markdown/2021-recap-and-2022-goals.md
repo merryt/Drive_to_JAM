@@ -34,7 +34,7 @@ Author: Tyler
 
 -   **Hit a few fiscal milestones** - The stock market went bananas in 2021 and with that we got to drive right by a few numbers we had in our minds for a while. Because the market went so high we actually saw them in the rear view as we drove past. Who knows with these things though. We aren't inflating our spending and trying to live on less then we averaged for the previous 3 years.
 
--   **Got a remote contract job** - I am taking a break from professional programming (My previous job at the Fool was mostly development stuff) and going back to UX things for a bit.
+-   **Got a remote contract job** - I am taking a break from professional programming (My previous job at the Fool was mostly development stuff) and going to spend some time rounding out my skill set. I would like to do more book learning and personal projects that allow me to understand more parts of the software lifecycle.
 
 ### **What I hope to do in 2022**
 
